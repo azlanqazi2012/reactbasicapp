@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+.st{
+  background-color: #61dafb;
+  border-radius: 10px;
+ 
+  text-align: center; 
+
+}
+strong{
+
+  text-align: center;
+  background-color: aqua;
+  color: azure;
+}
+.st1{
+  background-color: rgb(251, 246, 246);
+  margin: 0px;
+}
+.st1 li{
+  font-size: large;
+  font-style: initial;
+  font-weight: bold;
+  color: crimson;
+  
+}
+.maindiv{
+ }
