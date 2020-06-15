@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import Hello from './Hello';
+
 function App({name,age}) { //destructuring
 
 //  let user={name:"sdfxc",age:34}; 
